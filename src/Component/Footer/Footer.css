@@ -1,0 +1,18 @@
+.footer-container{
+    width: 100vw;
+    height: 10vh;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6A3488;
+
+}
+.ft-icon{
+    color: white;
+    font-size: 20px;
+}
+.ft-name{
+    color: white;
+    font-size: 20px;
+}
